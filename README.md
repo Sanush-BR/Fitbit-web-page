@@ -1,1 +1,1 @@
-# Single Amazon Web Page(Smart watch shopping Page)
+# Simple Amazon Web Page(Smart watch shopping Page)
