@@ -1,0 +1,148 @@
+body{
+    margin:0px;
+}
+
+.header {
+  color:blueviolet;
+  text-align:center;
+}
+
+#countdown
+{
+    text-align:center;
+}
+
+#navbar
+{   margin:0px;
+    margin-top:0px;
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: #0c151f;
+    
+}
+
+img{
+    display:block;
+    padding-left:680px;
+}
+
+
+#fit-img
+{ 
+    margin-left:-600px;
+    margin-top:40px;
+}
+
+#btn
+{
+    font-size:20px;
+}
+
+#content
+{
+    position:absolute;
+    top:124px;
+    right:200px;
+    font-size:20px;
+}
+
+#heading
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#description
+{
+    font-size:16px;
+    line-height:1px;
+    margin-left:5px;
+}
+
+#btn-black{
+    background-color: #23211f;
+    border:none;
+    margin:3px;
+    border-radius:3px;
+    padding:20px 30px;
+    cursor:pointer;
+}
+
+#btn-orange{
+    background-color:#ca3d22;
+    border:none;
+    margin:3px;
+    border-radius:3px;
+    padding:20px 30px;
+    cursor:pointer;
+}
+
+#btn-pink{
+    background-color:#e9c7be;
+    border:none;
+    margin:3px;
+    border-radius:3px;
+    padding:20px 30px;
+    cursor:pointer;
+}
+
+#btn-purple{
+    background-color:#8a5362;
+    border:none;
+    margin:3px;
+    border-radius:3px;
+    padding:20px 30px;
+    cursor:pointer;
+}
+
+#btn-blue
+{
+    background-color: #565681;
+    border:none;
+    margin:3px;
+    border-radius:3px;
+    padding:20px 30px;
+    cursor:pointer;
+}
+
+#btn-time
+{
+    color:black;
+    padding:10px 20px;
+    margin-top:-3px;
+    border:none;
+    border-radius:3px;
+    cursor:pointer;
+    background-color:rgb(231, 230, 230);
+    font-weight:bold;
+}
+
+#btn-HeartRate
+{
+    color:black;
+    margin-left:8px;
+    margin-top:-3px;
+    padding:10px 20px;
+    border:none;
+    border-radius:3px;
+    cursor:pointer;
+    background-color:rgb(231, 230, 230);
+    font-weight:bold;
+}
+
+#final-btn
+{
+    margin-top:25px;
+}
+
+#buy-btn
+{   
+    color:blck;
+    border:none;
+    border-radius:2px;
+    padding:10px 15px;
+    font-weight: bold;
+    cursor:pointer;
+    background-color:rgb(238, 77, 18);
+}
+
+
